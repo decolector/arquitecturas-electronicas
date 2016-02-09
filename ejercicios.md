@@ -43,11 +43,11 @@ Un Haiku es un poema corto compuesto de 3 líneas de texto.  Generalmente refier
  * Repetir hasta lograr lo deseado.
 
 
- ### 2. N+7
+### 2. N+7
 
  N+7 es una técnica de composición desarrollada por el grupo de escritura experimental OULIPO.  Consiste en tomar un texto (puede ser un poema o una obra literaria ) como base para reescribirlo reemplazando los sustantivos por el sustantivo número 7 del diccionario, contando desde el sustantivo extraído.
 
- #### Instrucciones
+#### Instrucciones
 
  * Tomar un poema o texto preexistente
 
@@ -63,11 +63,11 @@ Un Haiku es un poema corto compuesto de 3 líneas de texto.  Generalmente refier
 
 
 
- ### 3. Bola de Nieve
+### 3. Bola de Nieve
 
  Estrategia desarrollada por OULIPO.  Consiste en escribir un poema en el que la primera línea tiene una palabra, la segunda dos, la tercera tres y así sucesivamente.
 
- ### Instrucciones
+### Instrucciones
 
   * Tomar un texto preexistente, dividirlo en palabras individuales.
 
