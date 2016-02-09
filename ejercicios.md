@@ -23,10 +23,12 @@ El taller busca la implementación y/o creación de sistemas de generación de p
 
 ## Ejercicios
 
+Estos ejercicios han sido desarrollados por escritores experimentales, usando reglas combinatorias y fuentes preexistentes de texto.  Para el taller se puede tomar cualquiera de estas técnicas como ejemplo para desarrollar un sistema propio de generación de textos.
+
 
 ### 1. Generador de Haikus
 
-Un Haiku es un poema corto compuesto de 3 líneas de texto.  Generalmente refiere a momentos cotidianos de contemplación de la naturaleza. El haiku es un poema conciso,formado por 17 sílabas, distribuidas en 5-7-5. Sin rima ni titulo y con indicación de la estación del año.  En este ejercicio se puede usar la estructura del haiku, pero usando material encontrado en otros textos.
+Un Haiku es un poema corto compuesto de 3 líneas de texto.  Generalmente refiere a momentos cotidianos de contemplación de la naturaleza. El haiku es un poema conciso,formado por 17 sílabas, distribuidas en 5-7-5. Sin rima ni título y con indicación de la estación del año.  En este ejercicio se puede usar la estructura del haiku, pero usando material encontrado en otros textos.
 
 #### Instrucciones
 
@@ -49,7 +51,7 @@ Un Haiku es un poema corto compuesto de 3 líneas de texto.  Generalmente refier
 
 #### Instrucciones
 
- * Tomar un poema o texto preexistente
+ * Tomar un poema o texto preexistente.
 
  * Extraer el primer sustantivo.
 
