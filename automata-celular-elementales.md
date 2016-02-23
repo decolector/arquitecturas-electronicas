@@ -13,6 +13,12 @@ Altamente caótico, Puede ser usado como generador de números aleatorios.
 ![Alt Rule 30](http://mathworld.wolfram.com/images/eps-gif/ElementaryCARule030_1000.gif)
 
 
+### Regla 60
+
+Comportamiento fractal con una célula en el estado inicial. Comportamiento aleatorio con condiciones aleatorias en el estado inicial.
+
+![Alt Rule 60](http://mathworld.wolfram.com/images/eps-gif/ElementaryCARule060_1000.gif)
+
 ### Regla 90
 
 Autómata celular fractal, produce una pirámide de triangulos.
