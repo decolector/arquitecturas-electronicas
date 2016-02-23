@@ -1,3 +1,4 @@
+![Alt Rule 90](http://mathworld.wolfram.com/images/eps-gif/ElementaryCARule090_1000.gif)
 ## Automatas celulares elementales
 
 ### Regla 110
@@ -23,11 +24,12 @@ Comportamiento fractal con una célula en el estado inicial. Comportamiento alea
 
 Autómata celular fractal, produce una pirámide de triangulos.
 
+![Alt Rule 90](http://mathworld.wolfram.com/images/eps-gif/ElementaryCARule090_1000.gif)
+
 ### Regla 94
 
 Comportamiento aleatorio con simples condiciones iniciales.  
-
-![Alt Rule 90](http://mathworld.wolfram.com/images/eps-gif/ElementaryCARule090_1000.gif)
+![Alt Rule 94](http://mathworld.wolfram.com/images/eps-gif/ElementaryCARule94_1000.gif)
 
 ### Regla 54
 
